@@ -16,11 +16,11 @@
     "boom": "^7.2.0",
     "express": "^4.16.3",
     "google-protobuf": "3.5.0",
-    "grpc": "^1.11.3",
+    "grpc": "^1.19.0",
     "minimist": "^1.2.0",
     "morgan": "^1.9.0",
     "mz": "^2.7.0",
-    "puppeteer": "^1.7.0",
+    "puppeteer": "^1.13.0",
     "typescript": "^2.8.3",
     "unique-filename": "^1.1.0"
   },
